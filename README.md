@@ -1,4 +1,4 @@
-Abstract
+ABSTRACT:
 The Online Car Rental System is an innovative web-based platform designed to streamline and enhance the car rental process for both customers and rental companies. This system facilitates seamless interactions between car rental companies and their customers by leveraging advanced information technology and internet connectivity.
 
 Project Overview:
